@@ -34,3 +34,10 @@ proguard-project.txt
 # Android Studio/IDEA
 *.iml
 .idea
+*.iml
+.gradle
+/local.properties
+/.idea
+/build
+/captures
+.externalNativeBuild
